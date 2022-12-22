@@ -3,8 +3,8 @@ owner: lycaphe8x
 repo: uptime
 
 sites:
-  - name: tienghoasaoviet
-    url: https://www.tienghoasaoviet.com
+  - name: Tin Học Sao Việt
+    url: https://www.blogdaytinhoc.com
 
 status-website:
   baseUrl: /uptime
