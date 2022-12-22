@@ -7,18 +7,16 @@ sites:
     url: https://www.tienghoasaoviet.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: SaoViet_Monitor
+  introTitle: "Hệ thống giám sát tình trạng hoạt động của hệ thống Tin Học Sao Việt (blogdaytinhoc.com)"
+  introMessage: Hệ thống sẽ ghi nhận tình trạng giám sát website của Tin học Sao Việt. Đồng thời, cảnh báo về Email nếu website DownTime sau 5 phút
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Tình trạng
+      href: /uptime
+    - title: Tin học Sao Việt
+      href: https://www.blogdaytinhoc.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
