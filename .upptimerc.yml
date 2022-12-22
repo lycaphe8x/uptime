@@ -3,10 +3,6 @@ owner: lycaphe8x
 repo: uptime
 
 sites:
-  - name: blog
-    url: https://www.blogdaytinhoc.com
-  - name: dichvu
-    url: https://www.dichvudanhvanban.com
   - name: tienghoasaoviet
     url: https://www.tienghoasaoviet.com
 
