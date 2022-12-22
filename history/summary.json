@@ -1,20 +1,22 @@
 [
   {
-    "name": "Tin Học Sao Việt",
-    "url": "https://www.blogdaytinhoc.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.blogdaytinhoc.com.ico",
-    "slug": "tin-hoc-sao-viet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2558,
-    "timeDay": 2558,
-    "timeWeek": 2558,
-    "timeMonth": 2558,
-    "timeYear": 2558,
-    "dailyMinutesDown": {}
+    "name": "Test_BD",
+    "url": "https://www.tienghoasaoviet.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tienghoasaoviet.com.ico",
+    "slug": "test-bd",
+    "status": "down",
+    "uptime": "47.33%",
+    "uptimeDay": "47.33%",
+    "uptimeWeek": "47.33%",
+    "uptimeMonth": "47.33%",
+    "uptimeYear": "47.33%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-22": 0
+    }
   }
 ]
