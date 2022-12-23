@@ -3,8 +3,8 @@ owner: lycaphe8x
 repo: uptime
 
 sites:
-  - name: Test_BD
-    url: https://www.tienghoasaoviet.com
+  - name: SaoViet
+    url: https://blogdaytinhoc.com/
 
 status-website:
   baseUrl: /uptime
