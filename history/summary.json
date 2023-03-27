@@ -4,7 +4,7 @@
     "url": "https://blogdaytinhoc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blogdaytinhoc.com.ico",
     "slug": "sao-viet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 4182,
     "timeYear": 3215,
     "dailyMinutesDown": {
+      "2023-03-27": 0,
       "2023-03-25": 17,
       "2023-03-24": 15,
       "2023-03-23": 19,
