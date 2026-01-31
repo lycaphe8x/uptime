@@ -4,19 +4,19 @@
     "url": "https://blogdaytinhoc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blogdaytinhoc.com.ico",
     "slug": "sao-viet",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.42%",
     "time": 2287,
-    "timeDay": 1715,
-    "timeWeek": 1853,
-    "timeMonth": 1982,
+    "timeDay": 1822,
+    "timeWeek": 1867,
+    "timeMonth": 1984,
     "timeYear": 2217,
     "dailyMinutesDown": {
-      "2026-01-31": 48,
+      "2026-01-31": 66,
       "2026-01-30": 33,
       "2026-01-29": 164,
       "2026-01-28": 1,
@@ -87,8 +87,7 @@
       "2025-07-02": 36,
       "2025-06-24": 32,
       "2025-06-03": 27,
-      "2025-05-31": 49,
-      "2025-04-11": 21
+      "2025-05-31": 49
     }
   }
 ]
