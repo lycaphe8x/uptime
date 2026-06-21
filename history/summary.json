@@ -6,17 +6,17 @@
     "slug": "sao-viet",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.32%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "98.27%",
-    "time": 2098,
-    "timeDay": 2343,
-    "timeWeek": 1799,
-    "timeMonth": 1873,
-    "timeYear": 2100,
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "89.95%",
+    "uptimeYear": "98.25%",
+    "time": 2097,
+    "timeDay": 1858,
+    "timeWeek": 1766,
+    "timeMonth": 1863,
+    "timeYear": 2099,
     "dailyMinutesDown": {
-      "2026-02-21": 57,
+      "2026-02-21": 39,
       "2026-02-22": 73,
       "2026-02-23": 110,
       "2026-02-25": 73,
@@ -84,7 +84,8 @@
       "2026-06-17": 79,
       "2026-06-18": 193,
       "2026-06-19": 55,
-      "2026-06-20": 92
+      "2026-06-20": 92,
+      "2026-06-21": 94
     }
   }
 ]
